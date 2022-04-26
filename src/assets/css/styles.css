@@ -31,13 +31,14 @@ p {
 
 header,
 footer {
-    background-color: #777999;
+    background-color: #393939;
     padding: 2em 0;
+    color: ivory;
 }
 
 .hero {
     text-align: center;
-    background: #a5a5a5;
+    background: #3dd2ff;
     min-height: 5em;
     padding: 2em;
     margin: 1em 0;
