@@ -8,10 +8,12 @@ h1 {
     font-size: 2em;
     /* shorthand for TOP RIGHT BOTTOM LEFT */
     /* margin: 1em 0 1.5em 0; */
+    padding-top: 60px;
 }
 
 h2 {
     font-size: 1.6em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 h3 {
@@ -34,13 +36,21 @@ footer {
     background-color: #393939;
     padding: 2em 0;
     color: ivory;
+    text-align: right;
+}
+
+header {
+    height: 150px;
 }
 
 .hero {
     text-align: center;
-    background: #3dd2ff;
+    background: #00438a;
+    color: #c9c200;
+    font-size: xx-large;
+    text-decoration: underline;
     min-height: 5em;
-    padding: 2em;
+    padding: 1em;
     margin: 1em 0;
     /* vertically align */
     display: flex;
@@ -54,4 +64,8 @@ footer {
 
 main {
     margin-bottom: 2em;
+}
+
+.logo {
+    float: left;
 }

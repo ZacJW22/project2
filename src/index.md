@@ -3,12 +3,12 @@
 layout: layouts/homepage
 
 # set the page title
-title: 11056 Project 2 Starter - Something about racing
+title: Warren Racing
 
 # We can set extra info here to use in our templates
 
 hero:
-    title: "Hello There"
+    title: "ACT State Titles 2022 Recap"
 ---
 
 
