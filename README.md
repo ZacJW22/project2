@@ -1,28 +1,5 @@
-# 11056-project2
+# Reflection Markdown
+This site is my submission for the 3rd project of Front End Web Design - Outside the Grid
 
-## 11056 Project 2 Starter
+For this project, we were allowed to base the topic on anything we liked and I decided to do my site on my most recent karting race. I chose this as karting is pretty much my entire life outside of work and university. I spend hours and hours every week either tinkering with it or ripping laps at the local track trying to find that extra little bit of lap time to get me closer to the front. I won't go into detail about how I went in this markdown, as I'll let you read that for yourself. That is what the site is based on after all.
 
-This is repo containing everything you need to start Project 2. All you need to do is clone this repository to your computer and start editing...
-
-Make sure you refer to Canvas for more info.
-
-## Install Elventy
-From Terminal, navigate to the folder you saved the repository in:
-
-Type `npm create`
-
-or, if that doesn't work: `npm install --save-dev @11ty/eleventy`
-
-## Test your site
-
-Open Terminal and type: `npm start`
-
-This will create a local server to test the website.
-
-Go to: http://localhost:8080 to view your site
-
-## Build the site
-
-Run `npm build`
-
-Open up your site folder and you'll discover a folder within it called `final-website` this is where your actual site files are located. 
