@@ -12,7 +12,7 @@ h1 {
 
 h2 {
     font-size: 1.6em;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; /*Best font style in my opinion. Simple, elegant and suits most indistries*/
 }
 
 h3 {
@@ -47,7 +47,7 @@ header {
     padding-bottom: 3%;
     font-size: xx-large;
     justify-content: center;
-    background-image:linear-gradient(to right, rgb(6, 6, 6), rgb(45, 45, 45));
+    background-image:linear-gradient(to right, rgb(6, 6, 6), rgb(45, 45, 45)); /*Adds a bit of excitement and energy to the page*/
     font-weight: bolder;
 }
 
@@ -58,7 +58,7 @@ footer {
 
 .hero {
     text-align: center;
-    background-image: linear-gradient(to left, #00438a, #005dc1);
+    background-image: linear-gradient(to left, #00438a, #005dc1); /*Colours are important to the context of the site. Explained in detail in reflection file*/
     color: #c9c200;
     font-size: xx-large;
     text-decoration: underline;
@@ -67,7 +67,7 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 5%;
+    border-radius: 5%; /*Softens the text box that little bit more, so it's not so harsh to look at*/
     font-style: italic;
 }
 
@@ -78,10 +78,10 @@ main {
 }
 
 .logo {
-    float: left;
+    float: left; /*Logo goes on the left, text goes on the right for header and footer. Helps space out the site and offers clear distinction between the two*/
 }
 
 .action {
     max-width: 100%;
-    max-height: 100%;
+    max-height: 100%; /*These commands ensure that the image looks good regardless of screen width*/
 }
